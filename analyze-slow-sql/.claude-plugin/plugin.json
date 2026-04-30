@@ -1,0 +1,9 @@
+{
+  "name": "analyze-slow-sql",
+  "version": "1.0.0",
+  "description": "分析 MySQL 慢查询日志，输出结构化 HTML 报告，含耗时分布、Top SQL、优先级建议（P0-P3）；支持连接本地数据库获取真实表结构增强建议，并可生成测试数据验证优化效果",
+  "author": {
+    "name": "hlgmyl"
+  },
+  "license": "MIT"
+}
